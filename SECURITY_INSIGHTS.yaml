@@ -1,0 +1,15 @@
+contribution-policy:
+  accepts-automated-pull-requests: true
+  accepts-pull-requests: true
+distribution-points: []
+header:
+  expiration-date: 2024-12-21T12:47:57.562281Z
+  license: https://github.com/mlieberman85/skoot-new-15/blob/main/LICENSE
+  project-url: https://github.com/mlieberman85/skoot-new-15
+  schema-version: 1.0.0
+project-lifecycle:
+  bug-fixes-only: false
+  status: active
+security-contacts: []
+vulnerability-reporting:
+  accepts-vulnerability-reports: false
